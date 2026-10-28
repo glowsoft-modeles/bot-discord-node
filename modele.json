@@ -1,0 +1,7 @@
+{
+  "id": "bot-discord-node",
+  "nom": "Notifications vers Discord",
+  "cadriciel": "node",
+  "categorie": "integration",
+  "variables": ["DISCORD_WEBHOOK_URL"]
+}
